@@ -4,9 +4,9 @@ This repository provides a detailed explanation of the methodology used for perf
 
 ## Table of Contents
 1. [Sentiment Analysis](#1-sentiment-analysis)
-1.1. [Cleaning using Stop Words Lists](#11-cleaning-using-stop-words-lists)
-1.2. [Creating a dictionary of Positive and Negative words](#12-creating-a-dictionary-of-positive-and-negative-words)
-1.3. [Extracting Derived Variables](#13-extracting-derived-variables)
+- 1.1. [Cleaning using Stop Words Lists](#11-cleaning-using-stop-words-lists)
+- 1.2. [Creating a dictionary of Positive and Negative words](#12-creating-a-dictionary-of-positive-and-negative-words)
+- 1.3. [Extracting Derived Variables](#13-extracting-derived-variables)
 2. [Analysis of Readability](#2-analysis-of-readability)
 3. [Average Number of Words Per Sentence](#3-average-number-of-words-per-sentence)
 4. [Complex Word Count](#4-complex-word-count)
