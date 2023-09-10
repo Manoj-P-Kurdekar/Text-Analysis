@@ -6,8 +6,8 @@ from textstat import syllable_count, gunning_fog, textstat
 nltk.download('punkt')
 
 # Define paths to your StopWords and MasterDictionary folders
-stopwords_folder = r"C:\Users\manoj\OneDrive - Zoro\Desktop\Work\BlackCoffer\20211030 Test Assignment\StopWords"
-master_dictionary_folder = r"C:\Users\manoj\OneDrive - Zoro\Desktop\Work\BlackCoffer\20211030 Test Assignment\MasterDictionary"
+stopwords_folder = r"StopWords"
+master_dictionary_folder = r"MasterDictionary"
 
 # Function to load stopwords from a given file in the stopwords folder
 def load_stopwords(folder, filename):
